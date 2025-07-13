@@ -2,6 +2,7 @@
 - 👀 I’m interested in messing stuff up, especially what I don't understand.
 - 🌱 I’m currently learning to fade away in this fanciful world.
 - 💞️ I’m looking to collaborate on being strangers.
+- learning Android Development and interest in Game Development.
 - 📫 How to annoy me yatoniner@gmail.com
 
 <!---
